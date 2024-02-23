@@ -43,14 +43,10 @@ The repository has the following structure:
 - `README.md`: This file, containing an overview of the project and instructions for getting started.
 - `concrete_data.csv`: The dataset used in the project.
 - `notebooks/`: Directory containing Jupyter Notebooks with the project code.
-    - `data_preprocessing.ipynb`: Notebook for data preprocessing steps.
-    - `model_building.ipynb`: Notebook for building and training the neural network model.
-    - `model_evaluation.ipynb`: Notebook for evaluating the trained model and analyzing results.
-- `requirements.txt`: File listing the required Python packages for running the code.
 
 ## Usage
 
-The Jupyter Notebooks in the `notebooks/` directory provide step-by-step instructions for data preprocessing, model building, and evaluation. Follow the instructions in each notebook to execute the code and analyze the results.
+Go to the Jupyter Notebooks to execute the code and analyze the results.
 
 ## Contributing
 
