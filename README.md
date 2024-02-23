@@ -58,7 +58,7 @@ If you'd like to contribute to the project, feel free to submit a pull request o
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 
 
