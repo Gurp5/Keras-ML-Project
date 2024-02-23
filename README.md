@@ -31,7 +31,7 @@ cd your-repository
 
 3. Install the required dependencies:
 
-pip install -r requirements.txt
+See the code
 
 
 4. Explore the dataset and the Jupyter Notebook 'RM- Keras1.ipynb' containing the code for data preprocessing, model building, and evaluation.
