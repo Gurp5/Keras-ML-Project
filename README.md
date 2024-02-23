@@ -34,7 +34,7 @@ cd your-repository
 pip install -r requirements.txt
 
 
-4. Explore the dataset and the Jupyter Notebook containing the code for data preprocessing, model building, and evaluation.
+4. Explore the dataset and the Jupyter Notebook 'RM- Keras1.ipynb' containing the code for data preprocessing, model building, and evaluation.
 
 ## Project Structure
 
@@ -42,11 +42,11 @@ The repository has the following structure:
 
 - `README.md`: This file, containing an overview of the project and instructions for getting started.
 - `concrete_data.csv`: The dataset used in the project.
-- `notebooks/`: Directory containing Jupyter Notebooks with the project code.
+- `RM- Keras1.ipynb`: Directory containing Jupyter Notebooks with the project code.
 
 ## Usage
 
-Go to the Jupyter Notebooks to execute the code and analyze the results.
+Go to the Jupyter Notebooks 'RM- Keras1.ipynb' file to execute the code and analyze the results.
 
 ## Contributing
 
